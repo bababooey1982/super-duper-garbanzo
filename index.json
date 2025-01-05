@@ -1,0 +1,15 @@
+{
+  "arch": "x86_64",
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "license": "MIT",
+  "license_family": "MIT",
+  "name": "pytz",
+  "platform": "win",
+  "subdir": "win-64",
+  "timestamp": 1713974722039,
+  "version": "2024.1"
+}
